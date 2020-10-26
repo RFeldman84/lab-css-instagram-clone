@@ -121,9 +121,13 @@ h1{
 
 #footer li{
    list-style: none;
+   font-weight: bold;
+   color: rgb(194, 192, 192);
  }
 
+
  a{
+  font-weight: bold;
   color:#1f65a1;
   text-decoration: none; 
  }
