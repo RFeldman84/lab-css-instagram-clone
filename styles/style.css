@@ -79,22 +79,27 @@ body {
   width: 430px;
   align-items: center;
   display: flex;
-  flex-direction: column
+  flex-direction: column;
+  
 }                     
     /* WhiteBox: text */
 h1{
+  font-size: 1.8em;
   color:#06365f;
-  line-height: 1.5em;
+  margin-top: 35px
+ 
 }
 
 .sec2-whitebox> div >  p, h1{
   margin-bottom: 20px;
+  padding: 0 25px;
 }
 
    /* WhiteBox: apps */
 .download {
   display: flex;
   align-self: baseline;
+  padding: 0 25px;
 }
 
 .download > a:first-child {
